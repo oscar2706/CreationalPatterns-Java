@@ -1,106 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf6f82db-bcd4-461d-b500-9e2f8598f5c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CreationalPatterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Builder/Exercise/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Builder/Exercise/Ground.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Builder/Exercise/House.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Builder/Exercise/HouseBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Builder/Exercise/Pool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Builder/Exercise/Wall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Builder/Exercise/Yard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Builder/Facet/BuilderFacetsDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Builder/Facet/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Builder/Facet/PersonAddressBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Builder/Facet/PersonBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Builder/Facet/PersonJobBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Builder/Generics/EmployeeBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Builder/Generics/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Builder/Generics/PersonBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Builder/Generics/RecursiveGenericsDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/AbstractFactory/AbstractFactoryDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/AbstractFactory/Coffee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/AbstractFactory/CoffeeFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/AbstractFactory/HotDrinkMachine$AvailableDrink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/AbstractFactory/HotDrinkMachine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/AbstractFactory/IHotDrink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/AbstractFactory/IHotDrinkFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/AbstractFactory/Tea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/AbstractFactory/TeaFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Exercise/Chair/Chair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Exercise/Chair/ClassicChair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Exercise/Chair/ModernChair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Exercise/CoffeeTable/ClassicCoffeeTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Exercise/CoffeeTable/CoffeeTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Exercise/CoffeeTable/ModernCoffeeTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Exercise/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Exercise/Factories/ClassicFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Exercise/Factories/FurnitureFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Exercise/Factories/ModernFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Exercise/FurnitureMachine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Exercise/Sofa/ClassicSofa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Exercise/Sofa/ModernSofa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Exercise/Sofa/Sofa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Exercise/Wood.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Factory/CoordinateSystem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Factory/FactoryDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Factory/FactoryExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Factory/Point$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Factory/Point$Factory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Factory/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/Factories/Factory/PointFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreationalPatterns/META-INF/CreationalPatterns.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/Exercise/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Builder/Exercise/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/Exercise/Ground.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Builder/Exercise/Ground.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/Exercise/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Builder/Exercise/House.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/Exercise/HouseBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Builder/Exercise/HouseBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/Exercise/Pool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Builder/Exercise/Pool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/Exercise/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Builder/Exercise/Wall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/Exercise/Yard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Builder/Exercise/Yard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/Facet/BuilderFacetsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Builder/Facet/BuilderFacetsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/Facet/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Builder/Facet/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/Facet/PersonAddressBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Builder/Facet/PersonAddressBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/Facet/PersonBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Builder/Facet/PersonBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/Facet/PersonJobBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Builder/Facet/PersonJobBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/Generics/EmployeeBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Builder/Generics/EmployeeBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/Generics/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Builder/Generics/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/Generics/PersonBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Builder/Generics/PersonBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/Generics/RecursiveGenericsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Builder/Generics/RecursiveGenericsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/AbstractFactory/AbstractFactoryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/AbstractFactory/AbstractFactoryDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/AbstractFactory/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/AbstractFactory/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/AbstractFactory/CoffeeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/AbstractFactory/CoffeeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/AbstractFactory/HotDrinkMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/AbstractFactory/HotDrinkMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/AbstractFactory/IHotDrink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/AbstractFactory/IHotDrink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/AbstractFactory/IHotDrinkFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/AbstractFactory/IHotDrinkFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/AbstractFactory/Tea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/AbstractFactory/Tea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/AbstractFactory/TeaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/AbstractFactory/TeaFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/Exercise/Chair/Chair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/Exercise/Chair/Chair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/Exercise/Chair/ClassicChair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/Exercise/Chair/ClassicChair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/Exercise/Chair/ModernChair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/Exercise/Chair/ModernChair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/Exercise/CoffeeTable/ClassicCoffeeTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/Exercise/CoffeeTable/ClassicCoffeeTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/Exercise/CoffeeTable/CoffeeTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/Exercise/CoffeeTable/CoffeeTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/Exercise/CoffeeTable/ModernCoffeeTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/Exercise/CoffeeTable/ModernCoffeeTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/Exercise/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/Exercise/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/Exercise/Factories/ClassicFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/Exercise/Factories/ClassicFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/Exercise/Factories/FurnitureFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/Exercise/Factories/FurnitureFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/Exercise/Factories/ModernFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/Exercise/Factories/ModernFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/Exercise/FurnitureMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/Exercise/FurnitureMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/Exercise/Sofa/ClassicSofa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/Exercise/Sofa/ClassicSofa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/Exercise/Sofa/ModernSofa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/Exercise/Sofa/ModernSofa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/Exercise/Sofa/Sofa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/Exercise/Sofa/Sofa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/Exercise/Wood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/Exercise/Wood.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/Factory/CoordinateSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/Factory/CoordinateSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/Factory/FactoryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/Factory/FactoryDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/Factory/FactoryExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/Factory/FactoryExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/Factory/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/Factory/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factories/Factory/PointFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/Factories/Factory/PointFactory.java" afterDir="false" />
-    </list>
+    <list default="true" id="cf6f82db-bcd4-461d-b500-9e2f8598f5c6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -130,13 +31,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Creational/Factories/ExerciseV2/Chair/Chair.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Creational/Factories/ExerciseV2/Chair/ModernChair.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Creational/Factories/ExerciseV2/CoffeeTable/CoffeeTable.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Creational/Factories/ExerciseV2/Factories/ClassicFactory.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Creational/Factories/ExerciseV2/Sofa/Sofa.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Creational/Factories/ExerciseV2/FurnitureMachine.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Creational/Factories/ExerciseV2/Factories/ModernFactory.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Creational/Factories/ExerciseV2/CoffeeTable/ModernCoffeeTable.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Creational/Factories/ExerciseV2/Factories/FurnitureFactory.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Creational/Factories/Exercise/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/Creational/Factories/ExerciseV2/CoffeeTable/ClassicCoffeeTable.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -207,6 +149,7 @@
         <option value="$PROJECT_DIR$/src/Factories/Exercise/FurnitureMachine.java" />
         <option value="$PROJECT_DIR$/src/Factories/Exercise/Factories/ClassicFactory.java" />
         <option value="$PROJECT_DIR$/src/Factories/Exercise/Demo.java" />
+        <option value="$PROJECT_DIR$/src/Creational/Factories/ExerciseV2/CoffeeTable/ClassicCoffeeTable.java" />
       </list>
     </option>
   </component>
@@ -260,7 +203,43 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Creational" type="462c0819:PsiDirectoryNode" />
               <item name="Factories" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="ExerciseV2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Creational" type="462c0819:PsiDirectoryNode" />
+              <item name="Factories" type="462c0819:PsiDirectoryNode" />
+              <item name="ExerciseV2" type="462c0819:PsiDirectoryNode" />
+              <item name="Chair" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Creational" type="462c0819:PsiDirectoryNode" />
+              <item name="Factories" type="462c0819:PsiDirectoryNode" />
+              <item name="ExerciseV2" type="462c0819:PsiDirectoryNode" />
+              <item name="CoffeeTable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Creational" type="462c0819:PsiDirectoryNode" />
+              <item name="Factories" type="462c0819:PsiDirectoryNode" />
+              <item name="ExerciseV2" type="462c0819:PsiDirectoryNode" />
+              <item name="Factories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Creational" type="462c0819:PsiDirectoryNode" />
+              <item name="Factories" type="462c0819:PsiDirectoryNode" />
+              <item name="ExerciseV2" type="462c0819:PsiDirectoryNode" />
+              <item name="Sofa" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -276,7 +255,7 @@
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="318" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Creational/Factories/ExerciseV2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -417,12 +396,12 @@
       <workItem from="1562878616425" duration="372000" />
       <workItem from="1562878995778" duration="218000" />
       <workItem from="1562879393287" duration="14000" />
-      <workItem from="1562879423564" duration="284000" />
+      <workItem from="1562879423564" duration="532000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22028000" />
+    <option name="totallyTimeSpent" value="22276000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -437,7 +416,7 @@
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4955414" weight="0.20171674" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4955414" visible="true" weight="0.20171674" />
       <window_info id="Structure" order="1" sideWeight="0.50063694" side_tool="true" weight="0.17310444" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -545,72 +524,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Creational/Builder/Exercise/Ground.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Builder/Example.java" />
-    <entry file="file://$PROJECT_DIR$/src/Builder/Exercise/HouseWallBuilder.java" />
-    <entry file="file://$PROJECT_DIR$/src/Builder/Exercise/HouseYardBuilder.java" />
-    <entry file="file://$PROJECT_DIR$/src/Builder/Exercise/HousePoolBuilder.java" />
-    <entry file="file://$PROJECT_DIR$/src/Creational/Builder/Exercise/House.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/Builder/Exercise/Yard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/Builder/Exercise/HouseBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/Builder.Exercise">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>Builder.Exercise</OriginalElement>
-          <nodes>
-            <node x="" y="">Builder.Exercise.Wall</node>
-            <node x="" y="">Builder.Exercise.Ground</node>
-            <node x="" y="">Builder.Exercise.Demo</node>
-            <node x="" y="">Builder.Exercise.Yard</node>
-            <node x="" y="">Builder.Exercise.Pool</node>
-            <node x="" y="">Builder.Exercise.House</node>
-            <node x="" y="">Builder.Exercise.HouseBuilder</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="118.0" y="128.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/Builder/Exercise/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Builder/Facet/Done.java" />
     <entry file="file://$PROJECT_DIR$/src/Creational/Builder/Facet/BuilderFacetsDemo.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -879,23 +792,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/Factories/Exercise/FurnitureMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Creational/Factories/Exercise/Factories/ClassicFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -909,10 +805,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Creational/Factories/Exercise/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        <state relative-caret-position="80">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/Factories/Exercise/FurnitureMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/Factories/ExerciseV2/Chair/Chair.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/Factories/ExerciseV2/Chair/ModernChair.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/Factories/ExerciseV2/CoffeeTable/CoffeeTable.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/Factories/ExerciseV2/Factories/ClassicFactory.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/Factories/ExerciseV2/Sofa/Sofa.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/Factories/ExerciseV2/FurnitureMachine.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/Factories/ExerciseV2/Factories/ModernFactory.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/Factories/ExerciseV2/CoffeeTable/ModernCoffeeTable.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/Factories/ExerciseV2/Factories/FurnitureFactory.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/Factories/ExerciseV2/CoffeeTable/ClassicCoffeeTable.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
