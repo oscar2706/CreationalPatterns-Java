@@ -10,7 +10,7 @@ public class ClassicChair extends Chair {
 
     @Override
     public void sitOn() {
-        System.out.println("You have sitted in a Modern Chair");
+        System.out.println("You have sitted in a Classic Chair");
     }
 
     @Override

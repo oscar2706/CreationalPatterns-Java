@@ -9,22 +9,24 @@ import Creational.Factories.Exercise.Sofa.Sofa;
 import Creational.Factories.Exercise.Wood;
 
 public class ClassicFactory extends FurnitureFactory {
-    private Wood wood;
     
-        public ClassicFactory(Wood wood) {
+    public ClassicFactory() {
+    }
+    
+    public ClassicFactory(Wood wood) {
         this.wood = wood;
     }
-
+    
     @Override
     public Chair chair() {
         return new ClassicChair(wood);
     }
-
+    
     @Override
     public Sofa sofa() {
         return new ClassicSofa(wood);
     }
-
+    
     @Override
     public CoffeeTable coffeeTable() {
         return new ClassicCoffeeTable(wood);

@@ -7,6 +7,11 @@ import Creational.Factories.Exercise.Wood;
 
 public abstract class FurnitureFactory {
     protected Wood wood;
+    
+    public void setWood(Wood wood) {
+        this.wood = wood;
+    }
+    
     public abstract Chair chair();
     public abstract Sofa sofa();
     public abstract CoffeeTable coffeeTable();

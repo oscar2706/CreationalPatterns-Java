@@ -10,6 +10,9 @@ import Creational.Factories.Exercise.Wood;
 
 public class ModernFactory extends FurnitureFactory {
     
+    public ModernFactory() {
+    }
+    
     public ModernFactory(Wood wood) {
         this.wood = wood;
     }
