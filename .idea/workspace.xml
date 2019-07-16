@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Structural/Bridge/Excercise2/AutomaticEngine.java" line="7" mnemonic="6" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cf6f82db-bcd4-461d-b500-9e2f8598f5c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatternsUdemy.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,20 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Example/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Example/Shape.java">
+        <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Excercise2/ManualEngine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <state relative-caret-position="36">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -76,16 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Creational/Factories/AbstractFactory/HotDrinkMachine.java" />
-        <option value="$PROJECT_DIR$/src/Creational/Factories/Exercise/FurnitureMachine.java" />
-        <option value="$PROJECT_DIR$/src/Creational/Prototype/Clonable/Example.java" />
-        <option value="$PROJECT_DIR$/src/Creational/Prototype/Clonable/CloneableDemo.java" />
-        <option value="$PROJECT_DIR$/src/Creational/Prototype/Clonable/Address.java" />
-        <option value="$PROJECT_DIR$/src/Creational/Prototype/Clonable/Demo.java" />
-        <option value="$PROJECT_DIR$/src/Creational/Prototype/With_Constructors/E.java" />
-        <option value="$PROJECT_DIR$/src/Creational/Prototype/With_Constructors/CopyConstructorDemo.java" />
-        <option value="$PROJECT_DIR$/src/Creational/Prototype/With_Constructors/Demo.java" />
-        <option value="$PROJECT_DIR$/src/Creational/Prototype/With_Constructors/Address.java" />
         <option value="$PROJECT_DIR$/src/Creational/Prototype/Serialization/E.java" />
         <option value="$PROJECT_DIR$/src/Creational/Prototype/Serialization/Foo.java" />
         <option value="$PROJECT_DIR$/src/Creational/Prototype/Serialization/Demo.java" />
@@ -127,6 +109,16 @@
         <option value="$PROJECT_DIR$/src/Structural/Bridge/Exercise/Shape.java" />
         <option value="$PROJECT_DIR$/src/Structural/Bridge/Exercise/Square.java" />
         <option value="$PROJECT_DIR$/src/Structural/Bridge/Exercise/Demo.java" />
+        <option value="$PROJECT_DIR$/src/Structural/Bridge/Example2/Automatic.java" />
+        <option value="$PROJECT_DIR$/src/Structural/Bridge/Example2/Manual.java" />
+        <option value="$PROJECT_DIR$/src/Structural/Bridge/Example2/ManualEngine.java" />
+        <option value="$PROJECT_DIR$/src/Structural/Bridge/Example2/Engine.java" />
+        <option value="$PROJECT_DIR$/src/Structural/Bridge/Example2/SportCar.java" />
+        <option value="$PROJECT_DIR$/src/Structural/Bridge/Example2/Car.java" />
+        <option value="$PROJECT_DIR$/src/Structural/Bridge/Example2/Driver.java" />
+        <option value="$PROJECT_DIR$/src/Structural/Bridge/Example2/Demo.java" />
+        <option value="$PROJECT_DIR$/src/Structural/Bridge/Example2/AutomaticEngine.java" />
+        <option value="$PROJECT_DIR$/src/Structural/Bridge/Excercise2/AutomaticEngine.java" />
       </list>
     </option>
   </component>
@@ -136,7 +128,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -145,13 +137,51 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Tests'; set:Tests; class com.intellij.psi.search.scope.TestsScope" proportions="" version="1">
       <flattenPackages ProjectPane="false" />
       <showMembers ProjectPane="false" />
       <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Structural" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Structural" type="462c0819:PsiDirectoryNode" />
+              <item name="Bridge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Structural" type="462c0819:PsiDirectoryNode" />
+              <item name="Bridge" type="462c0819:PsiDirectoryNode" />
+              <item name="Excercise2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -179,29 +209,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Structural" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,7 +225,7 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -245,7 +252,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo (2)">
+  <component name="RunManager" selected="Application.Demo (3)">
     <configuration name="AdapterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Structural.Adapter.Caching.AdapterDemo" />
       <module name="DesignPatternsUdemy" />
@@ -298,12 +305,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multiton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Creational.Singleton.Multiton" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Structural.Bridge.Excercise2.Demo" />
       <module name="DesignPatternsUdemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Creational.Singleton.*" />
+          <option name="PATTERN" value="Structural.Bridge.Excercise2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,11 +320,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo (3)" />
         <item itemvalue="Application.Demo (2)" />
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.AdapterDemo" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Multiton" />
       </list>
     </recent_temporary>
   </component>
@@ -361,12 +368,13 @@
       <workItem from="1563042169143" duration="34000" />
       <workItem from="1563042809895" duration="238000" />
       <workItem from="1563043067988" duration="210000" />
-      <workItem from="1563212895276" duration="4620000" />
+      <workItem from="1563212895276" duration="5420000" />
+      <workItem from="1563290173693" duration="5173000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41123000" />
+    <option name="totallyTimeSpent" value="47096000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -378,9 +386,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.60818714" visible="true" weight="0.22152779" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.60818714" visible="true" weight="0.18819444" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -389,7 +397,7 @@
       <window_info id="Structure" order="6" sideWeight="0.39181286" side_tool="true" weight="0.23541667" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30695444" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3060296" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -397,7 +405,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3297362" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49928468" weight="0.48920864" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49928468" weight="0.3788969" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.4916067" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3297362" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -519,53 +527,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Creational/Prototype/Clonable/Example.java" />
-    <entry file="file://$PROJECT_DIR$/src/Creational/Prototype/Clonable/Address.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="77" selection-start-line="14" selection-start-column="77" selection-end-line="14" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/Prototype/E.java" />
-    <entry file="file://$PROJECT_DIR$/src/Creational/Factories/Exercise/FurnitureMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#618#619#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/Prototype/With_Constructors/E.java" />
-    <entry file="file://$PROJECT_DIR$/src/Creational/Prototype/Clonable/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/Prototype/With_Constructors/Address.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-          <folding>
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/Prototype/With_Constructors/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Creational/Prototype/Serialization/E.java" />
     <entry file="file://$PROJECT_DIR$/src/Creational/Prototype/With_Constructors/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -729,33 +690,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/E.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-            <element signature="e#749#750#0" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-            <element signature="e#982#983#0" expanded="true" />
-            <element signature="e#1153#1154#0" expanded="true" />
-            <element signature="e#1198#1199#0" expanded="true" />
-            <element signature="e#1260#1261#0" expanded="true" />
-            <element signature="e#1292#1293#0" expanded="true" />
-            <element signature="e#1389#1390#0" expanded="true" />
-            <element signature="e#1450#1451#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Example/E.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/E.java" />
+    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Example/E.java" />
     <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Example/RasterRenderer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -777,13 +713,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Exercise/Size.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Exercise/Size.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4180">
@@ -792,13 +722,6 @@
             <element signature="e#10065#10066#0" expanded="true" />
             <element signature="e#10148#10149#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Example/ShapeModule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="12" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -884,6 +807,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Example/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Example/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -891,10 +821,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Example/Shape.java">
+    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Example/ShapeModule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="100">
+          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding>
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Excercise2/SportCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Truck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Excercise2/AutomaticEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1278">
+          <caret line="71" column="60" selection-start-line="71" selection-start-column="60" selection-end-line="71" selection-end-column="60" />
+          <folding>
+            <element signature="e#1635#1636#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Excercise2/ManualEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
