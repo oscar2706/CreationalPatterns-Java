@@ -5,25 +5,6 @@ public class ManualEngine implements Engine {
     private final int maximumSpeed = 6;
     private int acceleration = 0;
     private boolean working = false;
-    private boolean clutchPressed = false;
-    
-    public void pushClutch() {
-        if (!clutchPressed) {
-            clutchPressed = true;
-        }
-        else {
-            System.out.println("Clutch already pushed");
-        }
-    }
-    
-    public void leaveClutch() {
-        if (clutchPressed) {
-            clutchPressed = false;
-        }
-        else {
-            System.out.println("Clutch still");
-        }
-    }
     
     @Override
     public void accelerate() {
@@ -56,6 +37,8 @@ public class ManualEngine implements Engine {
     public void turnOff() {
         if (isWorking()) {
             working = false;
+            speed = 0;
+            acceleration = 0;
             System.out.println("Engine turned OFF");
         }
         else {
@@ -70,8 +53,9 @@ public class ManualEngine implements Engine {
     
     @Override
     public void changeSpeed(int n) {
-        if (n <= maximumSpeed && clutchPressed) {
+        if (n <= maximumSpeed) {
             speed = n;
+            acceleration = 1;
             System.out.println("Engine speed = " + speed);
         }
         else {

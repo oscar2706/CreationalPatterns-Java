@@ -26,11 +26,32 @@ public class Driver {
     }
     
     public void pushAcelerate() {
-        car.accelerate();
+        car.pushAccelerator();
     }
     
     public void pushBreak() {
         car.pushBreak(1);
     }
     
+    public void changeSpeed(int speed) {
+        car.changeSpeed(speed);
+    }
+    
+    public void pushClutch() {
+        if (car.hasClutch()) {
+            car.pushClutch();
+        }
+        else {
+            System.out.println("The car does not have a clutch");
+        }
+    }
+    
+    public void leaveClutch() {
+        if (car.hasClutch()) {
+            car.leaveClutch();
+        }
+        else {
+            System.out.println("The car does not have a clutch");
+        }
+    }
 }

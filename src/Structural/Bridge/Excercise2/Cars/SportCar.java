@@ -20,14 +20,13 @@ public class SportCar extends Car{
     }
     
     @Override
-    public void accelerate() {
+    public void pushAccelerator() {
         engine.accelerate();
     }
     
     @Override
-    public boolean openDors() {
+    public void openDors() {
         System.out.println("Opening doors");
-        return true;
     }
     
     @Override
@@ -41,7 +40,23 @@ public class SportCar extends Car{
     }
     
     @Override
+    public void pushClutch() {
+    
+    }
+    
+    @Override
+    public void leaveClutch() {
+    
+    }
+    
+    @Override
     public void changeSpeed(int speedChange) {
     
     }
+    
+    @Override
+    public boolean hasClutch() {
+        return false;
+    }
+    
 }

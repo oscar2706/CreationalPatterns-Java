@@ -1,11 +1,11 @@
 package Structural.Bridge.Excercise2.Engines;
 
 public class AutomaticEngine implements Engine {
-        private int speed = 0;
-        private final int maximumSpeed = 7;
-        private int acceleration = 0;
-        private boolean working = false;
-        private final int accelerationSpeedChanger = 3;
+    private int speed = 0;
+    private final int maximumSpeed = 7;
+    private int acceleration = 0;
+    private boolean working = false;
+    private final int accelerationSpeedChanger = 3;
     
     @Override
     public void accelerate() {
@@ -40,6 +40,7 @@ public class AutomaticEngine implements Engine {
     public void turnOn() {
         if (!isWorking()) {
             working = true;
+            speed = 1;
             System.out.println("Engine turned ON");
         }
         else {
@@ -68,7 +69,8 @@ public class AutomaticEngine implements Engine {
         if (n <= maximumSpeed) {
             speed = n;
             System.out.println("Engine speed = " + speed);
-        } else {
+        }
+        else {
             System.out.println("MAXIMUM SPEED REACHED speed = " + speed);
         }
     }
