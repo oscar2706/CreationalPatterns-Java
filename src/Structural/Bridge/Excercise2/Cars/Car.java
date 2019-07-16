@@ -1,6 +1,6 @@
-package Structural.Bridge.Excercise2;
+package Structural.Bridge.Excercise2.Cars;
 
-abstract class Car {
+public abstract class Car {
     private int kmHr = 0;
     private int speed = 0;
     private int acceleration= 0;

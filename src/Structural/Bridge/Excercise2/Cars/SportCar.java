@@ -1,4 +1,6 @@
-package Structural.Bridge.Excercise2;
+package Structural.Bridge.Excercise2.Cars;
+
+import Structural.Bridge.Excercise2.Engines.Engine;
 
 public class SportCar extends Car{
     Engine engine;

@@ -1,4 +1,4 @@
-package Structural.Bridge.Excercise2;
+package Structural.Bridge.Excercise2.Engines;
 
 public interface Engine {
     public void accelerate();

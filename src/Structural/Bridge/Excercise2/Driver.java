@@ -1,5 +1,7 @@
 package Structural.Bridge.Excercise2;
 
+import Structural.Bridge.Excercise2.Cars.Car;
+
 public class Driver {
     private String name;
     private int age;

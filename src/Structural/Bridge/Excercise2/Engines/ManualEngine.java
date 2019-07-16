@@ -1,11 +1,29 @@
-package Structural.Bridge.Excercise2;
+package Structural.Bridge.Excercise2.Engines;
 
-public class AutomaticEngine implements Engine {
+public class ManualEngine implements Engine {
     private int speed = 0;
-    private final int maximumSpeed = 7;
+    private final int maximumSpeed = 6;
     private int acceleration = 0;
     private boolean working = false;
-    private final int accelerationSpeedChanger = 3;
+    private boolean clutchPressed = false;
+    
+    public void pushClutch() {
+        if (!clutchPressed) {
+            clutchPressed = true;
+        }
+        else {
+            System.out.println("Clutch already pushed");
+        }
+    }
+    
+    public void leaveClutch() {
+        if (clutchPressed) {
+            clutchPressed = false;
+        }
+        else {
+            System.out.println("Clutch still");
+        }
+    }
     
     @Override
     public void accelerate() {
@@ -13,32 +31,19 @@ public class AutomaticEngine implements Engine {
             return;
         ++acceleration;
         System.out.println("Engine acceleration = " + acceleration);
-        if (acceleration % accelerationSpeedChanger == 0) {
-            acceleration = 1;
-            changeSpeed(++speed);
-        }
     }
     
     @Override
     public void slowDown() {
         if (!isWorking())
             return;
-        if (acceleration > 0) {
-            --acceleration;
-            System.out.println("Engine slowing down, acceleration = " + acceleration);
-        }
-        else if (speed > 0) {
-            changeSpeed(--speed);
-        }
-        else {
-            System.out.println("Engine stopped");
-            turnOff();
-        }
+        --acceleration;
+        System.out.println("Engine slowing down = " + acceleration);
     }
     
     @Override
     public void turnOn() {
-        if (isWorking() == false) {
+        if (!isWorking()) {
             working = true;
             System.out.println("Engine turned ON");
         }
@@ -65,10 +70,11 @@ public class AutomaticEngine implements Engine {
     
     @Override
     public void changeSpeed(int n) {
-        if (n <= maximumSpeed) {
+        if (n <= maximumSpeed && clutchPressed) {
             speed = n;
             System.out.println("Engine speed = " + speed);
-        } else {
+        }
+        else {
             System.out.println("MAXIMUM SPEED REACHED speed = " + speed);
         }
     }
