@@ -26,11 +26,9 @@ public class AutomaticEngine implements Engine {
         if (acceleration > 0) {
             --acceleration;
             System.out.println("Engine slowing down, acceleration = " + acceleration);
-        }
-        else if (speed > 0) {
+        } else if (speed > 0) {
             changeSpeed(--speed);
-        }
-        else {
+        } else {
             System.out.println("Engine stopped");
             turnOff();
         }
@@ -42,8 +40,7 @@ public class AutomaticEngine implements Engine {
             working = true;
             speed = 1;
             System.out.println("Engine turned ON");
-        }
-        else {
+        } else {
             System.out.println("Engine already working");
         }
     }
@@ -53,8 +50,7 @@ public class AutomaticEngine implements Engine {
         if (isWorking()) {
             working = false;
             System.out.println("Engine turned OFF");
-        }
-        else {
+        } else {
             System.out.println("Engine already turned off");
         }
     }
@@ -69,9 +65,15 @@ public class AutomaticEngine implements Engine {
         if (n <= maximumSpeed) {
             speed = n;
             System.out.println("Engine speed = " + speed);
-        }
-        else {
+        } else {
             System.out.println("MAXIMUM SPEED REACHED speed = " + speed);
         }
+    }
+    
+    @Override
+    public void restartEngine() {
+        speed = 0;
+        acceleration = 0;
+        working = false;
     }
 }

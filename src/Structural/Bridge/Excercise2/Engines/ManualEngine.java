@@ -8,10 +8,10 @@ public class ManualEngine implements Engine {
     
     @Override
     public void accelerate() {
-        if (!isWorking())
-            return;
-        ++acceleration;
-        System.out.println("Engine acceleration = " + acceleration);
+        if (isWorking()) {
+            ++acceleration;
+            System.out.println("Engine acceleration = " + acceleration);
+        }
     }
     
     @Override
@@ -27,8 +27,7 @@ public class ManualEngine implements Engine {
         if (!isWorking()) {
             working = true;
             System.out.println("Engine turned ON");
-        }
-        else {
+        } else {
             System.out.println("Engine already working");
         }
     }
@@ -40,8 +39,7 @@ public class ManualEngine implements Engine {
             speed = 0;
             acceleration = 0;
             System.out.println("Engine turned OFF");
-        }
-        else {
+        } else {
             System.out.println("Engine already turned off");
         }
     }
@@ -57,9 +55,15 @@ public class ManualEngine implements Engine {
             speed = n;
             acceleration = 1;
             System.out.println("Engine speed = " + speed);
-        }
-        else {
+        } else {
             System.out.println("MAXIMUM SPEED REACHED speed = " + speed);
         }
+    }
+    
+    @Override
+    public void restartEngine() {
+        speed = 0;
+        acceleration = 0;
+        working = false;
     }
 }

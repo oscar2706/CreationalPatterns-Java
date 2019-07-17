@@ -2,32 +2,28 @@ package Structural.Bridge.Excercise2.Cars;
 
 import Structural.Bridge.Excercise2.Engines.Engine;
 
-public class Truck extends Car {
-    private Engine engine;
+public class ManualCar extends BasicCar {
     private boolean clutchPressed = false;
     
-    public Truck(Engine engine) {
-        this.engine = engine;
+    public ManualCar(Engine engine) {
+        super(engine);
     }
     
     @Override
     public void turnOn() {
         if (clutchPressed) {
             engine.turnOn();
-        }
-        else {
+        } else {
             System.out.println("You need to push the clutch to Start the motor");
         }
     }
     
     @Override
     public void turnOff() {
+        if (!clutchPressed) {
+            System.out.println("You have to push the cluth to turn off the engine correctly");
+        }
         engine.turnOff();
-    }
-    
-    @Override
-    public void pushAccelerator() {
-        engine.accelerate();
     }
     
     @Override
@@ -35,41 +31,22 @@ public class Truck extends Car {
         System.out.println("Opening doors");
     }
     
-    @Override
-    public boolean isTurnedOn() {
-        return engine.isWorking();
-    }
-    
-    @Override
-    public void pushBreak(int intensity) {
-        engine.slowDown();
-    }
-    
-    @Override
-    public void changeSpeed(int speedChange) {
-        if (clutchPressed) {
-            engine.changeSpeed(speedChange);
-        }
-        else{
-            engine.turnOff();
-            System.out.println("You had to press the clutch to change the speed");
-        }
-    }
-    
-    @Override
-    public boolean hasClutch() {
-        return true;
-    }
-    
-    @Override
     public void pushClutch() {
         clutchPressed = true;
         System.out.println("Clutch pressed");
     }
     
-    @Override
     public void leaveClutch() {
         clutchPressed = false;
         System.out.println("Clutch leaved");
+    }
+    
+    public void changeSpeed(int speedChange) {
+        if (clutchPressed) {
+            engine.changeSpeed(speedChange);
+        } else {
+            engine.turnOff();
+            System.out.println("You had to press the clutch to change the speed");
+        }
     }
 }

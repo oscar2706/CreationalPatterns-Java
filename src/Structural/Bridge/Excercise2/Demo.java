@@ -1,46 +1,47 @@
 package Structural.Bridge.Excercise2;
 
-import Structural.Bridge.Excercise2.Cars.SportCar;
-import Structural.Bridge.Excercise2.Cars.Truck;
+import Structural.Bridge.Excercise2.Cars.BasicCar;
+import Structural.Bridge.Excercise2.Cars.Car;
+import Structural.Bridge.Excercise2.Cars.ManualCar;
 import Structural.Bridge.Excercise2.Engines.AutomaticEngine;
+import Structural.Bridge.Excercise2.Engines.Engine;
 import Structural.Bridge.Excercise2.Engines.ManualEngine;
 
 public class Demo {
     public static void main(String[] args) {
-        final SportCar camaro = new SportCar(new AutomaticEngine());
-        final Driver oscar = new Driver("Oscar", 21, camaro);
-        oscar.turnOnCar();
-        oscar.pushClutch();
-        oscar.pushAcelerate();
-        oscar.pushAcelerate();
-        oscar.pushAcelerate();
-        oscar.pushAcelerate();
-        oscar.pushAcelerate();
-        oscar.pushAcelerate();
-        oscar.pushAcelerate();
-        oscar.pushAcelerate();
-        oscar.pushAcelerate();
-        oscar.pushAcelerate();
-        oscar.pushAcelerate();
-        oscar.turnOffCar();
-        
-        System.out.println();
-        
-        final Truck caminota = new Truck(new ManualEngine());
-        final Driver juan = new Driver("Juan", 28, caminota);
-        juan.pushClutch();
-        juan.turnOnCar();
-        juan.leaveClutch();
-        juan.pushAcelerate();
-        juan.pushAcelerate();
-        juan.pushAcelerate();
-        juan.pushAcelerate();
-        juan.pushClutch();
-        juan.changeSpeed(2);
-        juan.leaveClutch();
-        juan.pushAcelerate();
-        juan.pushAcelerate();
-        juan.pushAcelerate();
-        juan.changeSpeed(3);
+        Engine automaticEngine = new AutomaticEngine();
+        Engine manualEngine = new ManualEngine();
+    
+        System.out.println("--- PRUEBAS CON FUNCIÓN ---");
+        checkEngine(automaticEngine);
+        checkEngine(manualEngine);
+    }
+    
+    public static void checkEngine(Engine engine){
+        System.out.println("-> BasicCar");
+        Car basicCar = new BasicCar(engine);
+        basicCar.turnOn();
+        basicCar.pushAccelerator();
+        basicCar.pushAccelerator();
+        basicCar.pushAccelerator();
+        basicCar.pushAccelerator();
+        basicCar.pushAccelerator();
+        basicCar.pushAccelerator();
+        engine.restartEngine();
+        System.out.println("-> ManualCar");
+        ManualCar manualCar = new ManualCar(engine);
+        manualCar.pushClutch();
+        manualCar.turnOn();
+        manualCar.leaveClutch();
+        manualCar.pushAccelerator();
+        manualCar.pushAccelerator();
+        manualCar.pushAccelerator();
+        manualCar.pushAccelerator();
+        manualCar.pushClutch();
+        manualCar.changeSpeed(2);
+        manualCar.leaveClutch();
+        manualCar.pushAccelerator();
+        manualCar.pushAccelerator();
+        System.out.println("----------------------");
     }
 }

@@ -1,10 +1,11 @@
 package Structural.Bridge.Excercise2.Engines;
 
 public interface Engine {
-    public void accelerate();
-    public void slowDown(); //TODO: implement it with intensity
-    public void turnOn();
-    public void turnOff();
-    public boolean isWorking();
-    public void changeSpeed(int n);
+    void accelerate();
+    void slowDown();
+    void turnOn();
+    void turnOff();
+    boolean isWorking();
+    void changeSpeed(int n);
+    void restartEngine();
 }
