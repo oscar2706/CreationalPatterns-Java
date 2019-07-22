@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cf6f82db-bcd4-461d-b500-9e2f8598f5c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Structural/Proxy/Examples/Property/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structural/Proxy/Examples/Property/Demo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,24 +33,64 @@
     <favorites_list name="CreationalPatterns" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Race.java">
+        <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Examples/Dynamic/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="288">
+              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Demo.java">
+        <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Examples/Property/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            <state relative-caret-position="854">
+              <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+              <folding>
+                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#468#469#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Examples/Dynamic/Human.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Examples/Dynamic/LoggingHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Examples/Dynamic/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -82,10 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Cars/SportCar.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Cars/CarWithClutch.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Cars/Truck.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Demo.java" />
         <option value="$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Cars/BasicCar.java" />
         <option value="$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Cars/Car.java" />
         <option value="$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Cars/ManualCar.java" />
@@ -133,6 +170,10 @@
         <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/cars/CarType.java" />
         <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Race.java" />
         <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Demo.java" />
+        <option value="$PROJECT_DIR$/src/Structural/Proxy/Examples/Dynamic/LoggingHandler.java" />
+        <option value="$PROJECT_DIR$/src/Structural/Proxy/Examples/Dynamic/E.java" />
+        <option value="$PROJECT_DIR$/src/Structural/Proxy/Examples/Property/E.java" />
+        <option value="$PROJECT_DIR$/src/Structural/Proxy/Examples/Property/Demo.java" />
       </list>
     </option>
   </component>
@@ -185,7 +226,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,12 +255,30 @@
               <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Structural" type="462c0819:PsiDirectoryNode" />
-              <item name="Flyweight" type="462c0819:PsiDirectoryNode" />
+              <item name="Proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Structural" type="462c0819:PsiDirectoryNode" />
+              <item name="Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Structural" type="462c0819:PsiDirectoryNode" />
+              <item name="Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="Property" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,22 +302,25 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Structural.Proxy.Examples.Dynamic" />
       <recent name="Structural.Flyweight.Example" />
       <recent name="Structural.Decorator.Example" />
       <recent name="Structural.Composite.Example" />
       <recent name="Structural.Composite.Neurons" />
-      <recent name="Structural.Bridge.Example" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Structural.Flyweight.Exercise" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Creational/Factories/ExerciseV2" />
       <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Structural.Proxy.Examples.Dynamic" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Structural.Flyweight.Exercise" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -279,39 +340,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo (5)">
-    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Structural.Decorator.Example.Demo" />
-      <module name="DesignPatternsUdemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Structural.Decorator.Example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Structural.Decorator.Exercise.Demo" />
-      <module name="DesignPatternsUdemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Structural.Decorator.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Demo">
     <configuration name="Demo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Creational.Builder.Exercise.Demo" />
       <module name="DesignPatternsUdemy" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Creational.Builder.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Structural.Proxy.Examples.Dynamic.Demo" />
+      <module name="DesignPatternsUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Structural.Proxy.Examples.Dynamic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,11 +381,11 @@
       </method>
     </configuration>
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Structural.Bridge.Excercise2.Demo" />
+      <option name="MAIN_CLASS_NAME" value="Structural.Proxy.Examples.Property.Demo" />
       <module name="DesignPatternsUdemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Structural.Bridge.Excercise2.*" />
+          <option name="PATTERN" value="Structural.Proxy.Examples.Property.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -360,11 +408,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Demo (4)" />
         <item itemvalue="Application.Demo (5)" />
         <item itemvalue="Application.Editor" />
         <item itemvalue="Application.Demo (3)" />
-        <item itemvalue="Application.Demo (2)" />
-        <item itemvalue="Application.Demo (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -417,12 +465,13 @@
       <workItem from="1563580438115" duration="4426000" />
       <workItem from="1563629466474" duration="4286000" />
       <workItem from="1563645648590" duration="4436000" />
-      <workItem from="1563731121864" duration="4465000" />
+      <workItem from="1563731121864" duration="4797000" />
+      <workItem from="1563819385422" duration="2328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87833000" />
+    <option name="totallyTimeSpent" value="90493000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -435,8 +484,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.54196644" visible="true" weight="0.2653791" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.54196644" visible="true" weight="0.17291667" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -451,7 +501,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32853717" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3287841" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.5059952" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" x="0" y="45" width="1440" height="855" id="Terminal" maximized="true" order="10" sideWeight="0.49928468" type="WINDOWED" weight="0.37841192" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.4916067" />
@@ -575,63 +625,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Cars/ManualCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
-          <folding>
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Cars/BasicCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Engines/AutomaticEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Engines/ManualEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Engines/Engine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="41" column="32" lean-forward="true" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Structural/Composite/Neurons/E.java" />
     <entry file="file://$PROJECT_DIR$/src/Structural/Composite/Neurons/NeuralNetworksDemo.java" />
     <entry file="file://$PROJECT_DIR$/src/Structural/Composite/Example/E.java" />
@@ -825,13 +818,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Printer.java" />
-    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Format.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Format.java" />
     <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Example/BetterFormattedText.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -848,38 +835,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/FileManager.java" />
     <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/TextEditor.java" />
-    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/TextFormatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Range.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/TextFormatter.java" />
+    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Range.java" />
     <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Document.java" />
-    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Editor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Editor.java" />
     <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/cars/CarType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -910,6 +869,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Race.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -920,10 +886,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Examples/Dynamic/E.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        <state relative-caret-position="162">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Examples/Dynamic/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Examples/Dynamic/LoggingHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Examples/Dynamic/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Examples/Dynamic/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Examples/Property/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="854">
+          <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
