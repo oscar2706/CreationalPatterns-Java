@@ -32,21 +32,24 @@
     <favorites_list name="CreationalPatterns" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Editor.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Race.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            <state relative-caret-position="396">
+              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="90">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -79,12 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Structural/Bridge/Example2/AutomaticEngine.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Bridge/Excercise2/AutomaticEngine.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Bridge/Excercise2/ManualEngine.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Bridge/Excercise2/WithClutch.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Driver.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Cars/SimpleCar.java" />
         <option value="$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Cars/SportCar.java" />
         <option value="$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Cars/CarWithClutch.java" />
         <option value="$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Cars/Truck.java" />
@@ -130,6 +127,12 @@
         <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/TextEditor.java" />
         <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Range.java" />
         <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Editor.java" />
+        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Car.java" />
+        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/cars/CarFactory.java" />
+        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/cars/Car.java" />
+        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/cars/CarType.java" />
+        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Race.java" />
+        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Demo.java" />
       </list>
     </option>
   </component>
@@ -214,14 +217,6 @@
               <item name="Structural" type="462c0819:PsiDirectoryNode" />
               <item name="Flyweight" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Structural" type="462c0819:PsiDirectoryNode" />
-              <item name="Flyweight" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -249,7 +244,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -284,7 +279,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Editor">
+  <component name="RunManager" selected="Application.Demo (5)">
     <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Structural.Decorator.Example.Demo" />
       <module name="DesignPatternsUdemy" />
@@ -324,25 +319,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Structural.Composite.Exercise.Demo" />
+    <configuration name="Demo (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Structural.Flyweight.Exercise.Demo" />
       <module name="DesignPatternsUdemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Structural.Composite.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Structural.Bridge.Excercise2.Demo" />
-      <module name="DesignPatternsUdemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Structural.Bridge.Excercise2.Engines.*" />
+          <option name="PATTERN" value="Structural.Flyweight.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -368,7 +350,7 @@
       <module name="DesignPatternsUdemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Structural.Flyweight.Exercise.*" />
+          <option name="PATTERN" value="Structural.Flyweight.Exercise.cars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -378,11 +360,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo (5)" />
         <item itemvalue="Application.Editor" />
         <item itemvalue="Application.Demo (3)" />
         <item itemvalue="Application.Demo (2)" />
         <item itemvalue="Application.Demo (1)" />
-        <item itemvalue="Application.Demo (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -435,11 +417,12 @@
       <workItem from="1563580438115" duration="4426000" />
       <workItem from="1563629466474" duration="4286000" />
       <workItem from="1563645648590" duration="4436000" />
+      <workItem from="1563731121864" duration="4465000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83368000" />
+    <option name="totallyTimeSpent" value="87833000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -452,9 +435,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.54196644" visible="true" weight="0.2576389" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.54196644" visible="true" weight="0.2653791" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -593,16 +575,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Excercise2/WithClutch.java" />
-    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Cars/CarWithClutch.java" />
-    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Driver.java" />
-    <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Cars/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Structural/Bridge/Excercise2/Cars/ManualCar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="658">
@@ -844,16 +816,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Structural/Facade/E.java" />
     <entry file="file://$PROJECT_DIR$/src/Structural/Facade/Person.java" />
-    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Example/E.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Example/E.java" />
     <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Example/FormattedText.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -861,13 +824,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Printer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Printer.java" />
     <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Format.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -889,20 +846,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/FileManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/TextEditor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/FileManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/TextEditor.java" />
     <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/TextFormatter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -927,24 +872,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Document.java">
+    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Document.java" />
+    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Editor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="54">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/cars/CarType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/cars/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/cars/CarFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Race.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Editor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        <state relative-caret-position="90">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
         </state>
       </provider>
     </entry>
