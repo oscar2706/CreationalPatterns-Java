@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cf6f82db-bcd4-461d-b500-9e2f8598f5c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsUdemy/Behavioral/ChainOfResponsability/Example/BrokerChainDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternsUdemy/Behavioral/ChainOfResponsability/Example/BrokerChainDemo.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,26 +33,7 @@
     <favorites_list name="CreationalPatterns" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Example/BrokerChainDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Example/Event.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -79,26 +61,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Exercise/User.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/Commands/SaveCommand.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Structural/Composite/Exercise/Demo.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Structural/Composite/Exercise/Purchasable.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/Commands/CommandHistory.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Structural/Decorator/Exercise/FirearmDecorator.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Decorator/Exercise/Demo.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Example/E.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Example/Demo.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Example/BetterFormattedText.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Example/FormattedText.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/FileManager.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Format.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/TextFormatter.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/TextEditor.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Range.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Editor.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Car.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/cars/CarFactory.java" />
         <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/cars/Car.java" />
         <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/cars/CarType.java" />
         <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Race.java" />
@@ -136,6 +107,20 @@
         <option value="$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Example/ChainHandlers/DoubleAttackModifier.java" />
         <option value="$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Example/Creature.java" />
         <option value="$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Example/BrokerChainDemo.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Command/NoteEditor.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Command/NoteEditor.form" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Command/Exercise/GUI.form" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Command/Exercise/Editor.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Command/Exercise/Commands/App.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Command/Exercise/App.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Command/Exercise/BD.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Command/Exercise/Note.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Command/Exercise/Commands/EditCommand.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Command/Exercise/Commands/SaveCommand.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Command/Exercise/Commands/Command.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Command/Exercise/Commands/DeleteCommand.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Command/Exercise/Commands/CommandHistory.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Command/Exercise/Demo.java" />
       </list>
     </option>
   </component>
@@ -158,10 +143,11 @@
       <flattenPackages ProjectPane="false" />
       <showMembers ProjectPane="false" />
       <hideEmptyPackages ProjectPane="true" />
+      <autoscrollToSource ProjectPane="false" />
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -189,6 +175,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,41 +199,7 @@
               <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Behavioral" type="462c0819:PsiDirectoryNode" />
-              <item name="ChainOfResponsability" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Behavioral" type="462c0819:PsiDirectoryNode" />
-              <item name="ChainOfResponsability" type="462c0819:PsiDirectoryNode" />
-              <item name="Example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Behavioral" type="462c0819:PsiDirectoryNode" />
-              <item name="ChainOfResponsability" type="462c0819:PsiDirectoryNode" />
-              <item name="Example" type="462c0819:PsiDirectoryNode" />
-              <item name="ChainHandlers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Behavioral" type="462c0819:PsiDirectoryNode" />
-              <item name="ChainOfResponsability" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Behavioral" type="462c0819:PsiDirectoryNode" />
-              <item name="ChainOfResponsability" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="ChainHandlers" type="462c0819:PsiDirectoryNode" />
+              <item name="Command" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -263,7 +216,7 @@
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE" value="left" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="167" />
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.STATE" value="right" />
-    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="318" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="416" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -276,7 +229,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="jformdesigner.general" />
   </component>
   <component name="RecentsManager">
     <key name="MoveMembersDialog.RECENTS_KEY">
@@ -291,16 +244,16 @@
       <recent name="Structural.Flyweight.Example" />
       <recent name="Structural.Decorator.Example" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Creational/Factories/ExerciseV2" />
-      <recent name="$PROJECT_DIR$/src" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Behavioral.ChainOfResponsability.Example.ChainOfResponsability" />
+      <recent name="Structural.Flyweight.Exercise" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Structural.Proxy.Examples.Dynamic" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Behavioral.ChainOfResponsability.Example.ChainOfResponsability" />
-      <recent name="Structural.Flyweight.Exercise" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Creational/Factories/ExerciseV2" />
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -320,7 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BrokerChainDemo">
+  <component name="RunManager" selected="Application.Demo (2)">
     <configuration name="BrokerChainDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Behavioral.ChainOfResponsability.Example.BrokerChainDemo" />
       <module name="DesignPatternsUdemy" />
@@ -360,32 +313,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Structural.Flyweight.Exercise.Demo" />
-      <module name="DesignPatternsUdemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Structural.Flyweight.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Structural.Proxy.Examples.Property.Demo" />
-      <module name="DesignPatternsUdemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Structural.Proxy.Examples.Property.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Behavioral.ChainOfResponsability.Exercise.Demo" />
       <module name="DesignPatternsUdemy" />
@@ -399,13 +326,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Behavioral.Command.Exercise.Demo" />
+      <module name="DesignPatternsUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Behavioral.Command.Exercise.BD" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NoteEditor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Behavioral.Command.NoteEditor" />
+      <module name="DesignPatternsUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Behavioral.Command.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo (2)" />
+        <item itemvalue="Application.NoteEditor" />
         <item itemvalue="Application.BrokerChainDemo" />
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Demo (4)" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Demo (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -466,12 +419,23 @@
       <workItem from="1563990583619" duration="2496000" />
       <workItem from="1564004461594" duration="335000" />
       <workItem from="1564004812110" duration="11000" />
-      <workItem from="1564004837640" duration="852000" />
+      <workItem from="1564004837640" duration="1631000" />
+      <workItem from="1564007643189" duration="664000" />
+      <workItem from="1564015609002" duration="303000" />
+      <workItem from="1564062988190" duration="267000" />
+      <workItem from="1564063261732" duration="99000" />
+      <workItem from="1564063430954" duration="699000" />
+      <workItem from="1564068521934" duration="18000" />
+      <workItem from="1564068555892" duration="2880000" />
+      <workItem from="1564072132332" duration="28000" />
+      <workItem from="1564072461037" duration="2830000" />
+      <workItem from="1564075852418" duration="8000" />
+      <workItem from="1564078823649" duration="4816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115156000" />
+    <option name="totallyTimeSpent" value="128547000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -485,26 +449,26 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5409429" visible="true" weight="0.23541667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5371703" visible="true" weight="0.20902778" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.45803356" side_tool="true" weight="0.30972221" />
-      <window_info id="Structure" order="6" sideWeight="0.45905706" side_tool="true" weight="0.23541667" />
+      <window_info id="Structure" order="6" sideWeight="0.46282974" side_tool="true" weight="0.20902778" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3287841" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32853717" />
       <window_info anchor="bottom" x="0" y="45" width="1440" height="855" id="Run" maximized="true" order="2" type="WINDOWED" weight="0.40167865" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5756824" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5755396" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32754344" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32733813" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.5059952" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" x="0" y="45" width="1440" height="855" id="Terminal" maximized="true" order="10" sideWeight="0.49928468" type="WINDOWED" weight="0.37841192" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.4916067" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32754344" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32733813" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -516,26 +480,26 @@
       <window_info anchor="right" id="Database" order="8" weight="0.3297568" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4955414" visible="true" weight="0.2360515" />
-      <window_info id="Structure" order="1" sideWeight="0.50063694" side_tool="true" weight="0.17310444" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5044586" side_tool="true" weight="0.18168813" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.53956836" visible="true" weight="0.23541667" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.45803356" side_tool="true" weight="0.30972221" />
+      <window_info id="Structure" order="6" sideWeight="0.46043167" side_tool="true" weight="0.23541667" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3287841" />
+      <window_info anchor="bottom" x="0" y="45" width="1440" height="855" id="Run" maximized="true" order="2" type="WINDOWED" weight="0.40167865" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5756824" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32733813" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3299363" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.5059952" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49928468" weight="0.49171975" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.49171975" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3299363" />
+      <window_info anchor="bottom" x="0" y="45" width="1440" height="855" id="Terminal" maximized="true" order="10" sideWeight="0.49928468" type="WINDOWED" weight="0.37841192" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.4916067" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32754344" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -624,165 +588,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/TextFormatter.java" />
-    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Range.java" />
-    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Document.java" />
-    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Editor.java" />
-    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/cars/CarType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/cars/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-          <folding>
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/cars/CarFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Race.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Examples/Dynamic/E.java" />
-    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Examples/Property/Creature.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Examples/Property/Property.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Examples/Property/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Exercise/Database.java" />
-    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Exercise/UserDara.java" />
-    <entry file="file://$PROJECT_DIR$/src/Structural/Decorator/Exercise/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="97" lean-forward="true" selection-start-line="6" selection-start-column="97" selection-end-line="6" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Examples/Dynamic/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/MAMP/Library/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.1.4/ext/concurrent-ruby/com/concurrent_ruby/ext/jsr166e/nounsafe/ConcurrentHashMapV8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#157833#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Examples/Dynamic/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Examples/Dynamic/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Examples/Dynamic/LoggingHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding>
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Exercise/Storage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="135" selection-start-line="135" selection-end-line="135" />
-          <folding>
-            <element signature="e#2871#2872#0" expanded="true" />
-            <element signature="e#2896#2897#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="446" selection-start-line="446" selection-end-line="446" />
-          <folding>
-            <element signature="e#1327#1328#0" expanded="true" />
-            <element signature="e#1369#1370#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Exercise/Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1134">
@@ -837,70 +642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Exercise/ChainHandlers/PermissionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Exercise/ChainHandlers/AttempsHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Exercise/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Exercise/BD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Exercise/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Exercise/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Example/ChainOfResponsability/Creature.java" />
     <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Example/Game.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -917,23 +658,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Example/Demo.java" />
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Exercise/ChainHandlers/PasswordHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Exercise/ChainHandlers/ChainHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Example/E.java" />
     <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Example/Query.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -977,13 +701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Example/BrokerChainDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Example/Event.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -991,5 +708,259 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Example/BrokerChainDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Exercise/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Exercise/ChainHandlers/PermissionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Exercise/ChainHandlers/ChainHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Exercise/ChainHandlers/PasswordHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Exercise/BD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/Nota.java" />
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Exercise/ChainHandlers/AttempsHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Exercise/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Exercise/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/NoteEditor.form" />
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/NoteEditor.java" />
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/F.java" />
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/F.form" />
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/NoteEditos.form" />
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/NoteEditos.java" />
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/Note.form" />
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/GUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/GUI.form" />
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/Editor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/Factories/Exercise/Factories/ClassicFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/Factories/Exercise/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="32" column="47" lean-forward="true" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/Factories/Exercise/Factories/FurnitureFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/BD.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/Commands/App.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" column="48" lean-forward="true" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+          <folding>
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/Commands/DeleteCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="82" selection-start-line="17" selection-start-column="82" selection-end-line="17" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/Commands/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/Commands/EditCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/Commands/CommandHistory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/Commands/SaveCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/BD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
