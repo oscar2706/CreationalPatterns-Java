@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cf6f82db-bcd4-461d-b500-9e2f8598f5c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsUdemy/Behavioral/ChainOfResponsability/Example/BrokerChainDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternsUdemy/Behavioral/ChainOfResponsability/Example/BrokerChainDemo.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,7 +32,7 @@
     <favorites_list name="CreationalPatterns" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -70,17 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/cars/Car.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/cars/CarType.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Race.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Flyweight/Exercise/Demo.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Proxy/Examples/Dynamic/E.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Proxy/Examples/Property/E.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Proxy/Examples/Property/Demo.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Proxy/Exercise/Storage.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Proxy/Exercise/DB.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Proxy/Exercise/UserData.java" />
-        <option value="$PROJECT_DIR$/src/Structural/Proxy/Examples/Dynamic/Demo.java" />
         <option value="$PROJECT_DIR$/src/Structural/Proxy/Exercise/Application.java" />
         <option value="$PROJECT_DIR$/src/Structural/Proxy/Examples/Dynamic/LoggingHandler.java" />
         <option value="$PROJECT_DIR$/src/Structural/Proxy/Exercise/Demo.java" />
@@ -121,6 +109,17 @@
         <option value="$PROJECT_DIR$/src/Behavioral/Command/Exercise/Commands/DeleteCommand.java" />
         <option value="$PROJECT_DIR$/src/Behavioral/Command/Exercise/Commands/CommandHistory.java" />
         <option value="$PROJECT_DIR$/src/Behavioral/Command/Exercise/Demo.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Iterator/Examples/TreeTraversal/E.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Iterator/Examples/TreeTraversal/Node.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Iterator/Examples/TreeTraversal/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Iterator/Examples/TreeTraversal/InOrderIterator.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Iterator/Exercise/Animal.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Iterator/Exercise/Person.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Iterator/Exercise/Node.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Iterator/Examples/TreeTraversal/Demo.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Iterator/Exercise/Demo.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Iterator/Exercise/Iterator.java" />
+        <option value="$PROJECT_DIR$/src/Behavioral/Iterator/Exercise/InOrder.java" />
       </list>
     </option>
   </component>
@@ -148,6 +147,66 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Behavioral" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Behavioral" type="462c0819:PsiDirectoryNode" />
+              <item name="Iterator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Behavioral" type="462c0819:PsiDirectoryNode" />
+              <item name="Iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Behavioral" type="462c0819:PsiDirectoryNode" />
+              <item name="Iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="TreeTraversal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Behavioral" type="462c0819:PsiDirectoryNode" />
+              <item name="Iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Creational" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -176,35 +235,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Behavioral" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatternsUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatternsUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Behavioral" type="462c0819:PsiDirectoryNode" />
-              <item name="Command" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,7 +259,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="jformdesigner.general" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveMembersDialog.RECENTS_KEY">
@@ -238,22 +268,22 @@
       <recent name="Behavioral.ChainOfResponsability.Example.Query.Argument" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Behavioral.Iterator.Examples.TreeTraversal" />
       <recent name="Behavioral.ChainOfResponsability.Example" />
       <recent name="Structural.Proxy.Examples.Property" />
       <recent name="Structural.Proxy.Examples.Dynamic" />
       <recent name="Structural.Flyweight.Example" />
-      <recent name="Structural.Decorator.Example" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Behavioral.ChainOfResponsability.Example.ChainOfResponsability" />
-      <recent name="Structural.Flyweight.Exercise" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Structural.Proxy.Examples.Dynamic" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Creational/Factories/ExerciseV2" />
       <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Structural.Proxy.Examples.Dynamic" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Behavioral.ChainOfResponsability.Example.ChainOfResponsability" />
+      <recent name="Structural.Flyweight.Exercise" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -273,7 +303,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo (2)">
+  <component name="RunManager" selected="Application.Demo (3)">
     <configuration name="BrokerChainDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Behavioral.ChainOfResponsability.Example.BrokerChainDemo" />
       <module name="DesignPatternsUdemy" />
@@ -300,12 +330,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Structural.Proxy.Examples.Dynamic.Demo" />
+    <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Behavioral.Iterator.Examples.TreeTraversal.Demo" />
       <module name="DesignPatternsUdemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Structural.Proxy.Examples.Dynamic.*" />
+          <option name="PATTERN" value="Behavioral.Iterator.Examples.TreeTraversal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,25 +343,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Behavioral.ChainOfResponsability.Exercise.Demo" />
+    <configuration name="Demo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Behavioral.Iterator.Exercise.Demo" />
       <module name="DesignPatternsUdemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Behavioral.ChainOfResponsability.Exercise.ChainHandlers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Behavioral.Command.Exercise.Demo" />
-      <module name="DesignPatternsUdemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Behavioral.Command.Exercise.BD" />
+          <option name="PATTERN" value="Behavioral.Iterator.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,11 +371,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo (3)" />
         <item itemvalue="Application.Demo (2)" />
         <item itemvalue="Application.NoteEditor" />
         <item itemvalue="Application.BrokerChainDemo" />
         <item itemvalue="Application.Demo (1)" />
-        <item itemvalue="Application.Demo (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -430,12 +447,14 @@
       <workItem from="1564072132332" duration="28000" />
       <workItem from="1564072461037" duration="2830000" />
       <workItem from="1564075852418" duration="8000" />
-      <workItem from="1564078823649" duration="4816000" />
+      <workItem from="1564078823649" duration="6616000" />
+      <workItem from="1564521428256" duration="1347000" />
+      <workItem from="1564578163533" duration="3930000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128547000" />
+    <option name="totallyTimeSpent" value="135624000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -458,7 +477,7 @@
       <window_info id="Structure" order="6" sideWeight="0.46282974" side_tool="true" weight="0.20902778" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32853717" />
-      <window_info anchor="bottom" x="0" y="45" width="1440" height="855" id="Run" maximized="true" order="2" type="WINDOWED" weight="0.40167865" />
+      <window_info anchor="bottom" x="0" y="45" width="1440" height="855" id="Run" maximized="true" order="2" type="WINDOWED" weight="0.9640288" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5755396" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -468,7 +487,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" x="0" y="45" width="1440" height="855" id="Terminal" maximized="true" order="10" sideWeight="0.49928468" type="WINDOWED" weight="0.37841192" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.4916067" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32733813" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3263158" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -480,17 +499,17 @@
       <window_info anchor="right" id="Database" order="8" weight="0.3297568" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.53956836" visible="true" weight="0.23541667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5371703" visible="true" weight="0.20902778" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.45803356" side_tool="true" weight="0.30972221" />
-      <window_info id="Structure" order="6" sideWeight="0.46043167" side_tool="true" weight="0.23541667" />
+      <window_info id="Structure" order="6" sideWeight="0.46282974" side_tool="true" weight="0.20902778" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3287841" />
-      <window_info anchor="bottom" x="0" y="45" width="1440" height="855" id="Run" maximized="true" order="2" type="WINDOWED" weight="0.40167865" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5756824" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32853717" />
+      <window_info anchor="bottom" x="0" y="45" width="1440" height="855" id="Run" maximized="true" order="2" type="WINDOWED" weight="0.9640288" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5755396" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32733813" />
@@ -499,7 +518,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" x="0" y="45" width="1440" height="855" id="Terminal" maximized="true" order="10" sideWeight="0.49928468" type="WINDOWED" weight="0.37841192" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.4916067" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32754344" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32733813" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -588,77 +607,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Exercise/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="65" column="24" lean-forward="true" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Exercise/DB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Exercise/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Exercise/QueryHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Proxy/Exercise/UserData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" column="22" lean-forward="true" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
-          <folding>
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#622#623#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Example/ChainOfResponsability/Creature.java" />
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Example/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Example/Demo.java" />
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Example/E.java" />
     <entry file="file://$PROJECT_DIR$/src/Behavioral/ChainOfResponsability/Example/Query.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -807,16 +755,7 @@
     <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/Note.form" />
     <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/GUI.java" />
     <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/GUI.form" />
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/Editor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/Editor.java" />
     <entry file="file://$PROJECT_DIR$/src/Creational/Factories/Exercise/Factories/ClassicFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -838,19 +777,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/BD.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/Commands/App.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/Commands/App.java" />
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/App.java" />
     <entry file="file://$PROJECT_DIR$/src/Behavioral/Command/Exercise/Note.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="580">
@@ -944,6 +872,99 @@
             <element signature="e#675#676#0" expanded="true" />
             <element signature="e#732#733#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Iterator/Examples/TreeTraversal/E.java" />
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Iterator/Examples/TreeTraversal/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Iterator/Exercise/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Iterator/Exercise/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Iterator/Examples/TreeTraversal/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Iterator/Exercise/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Iterator/Examples/TreeTraversal/InOrderIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="940">
+          <caret line="47" column="21" lean-forward="true" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+          <folding>
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Iterator/Examples/TreeTraversal/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Iterator/Exercise/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Iterator/Exercise/InOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behavioral/Iterator/Exercise/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
